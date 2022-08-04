@@ -1,2 +1,4 @@
-# mixed_messages_codeacad
-Project for random message generation for Codeacademy.
+#Mixed Messages Codeacademy Project
+#Repo mixed_messages_codeacad
+
+Learning project for random message generation for Codeacademy.
